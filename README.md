@@ -1,3 +1,4 @@
+![The Jolly Bengali Logo](https://raw.github.com/bttf/jolly-bengali/master/public/img/jollybengalilogo_small.png.jpg)
 # jolly-bengali
 Landing page for the Jolly Bengali food truck in South FL.
 
